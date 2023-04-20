@@ -2,7 +2,7 @@
 const { constants } = require('buffer');
 const http=require('http');
 //establecer la url o ip de nuestro sevidor
-const hostname='192.168.1.55';
+const hostname='192.168.173.237';
 //establecer el puerto de escucha 
 const port=3000;
 //creamos una instancia http con un reques y un response
